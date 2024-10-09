@@ -1,5 +1,6 @@
 ---
 title: Growing against the Grain - Doing more with less
+presenter: Paul Norris
 ---
 ## Key Takeaways
 
@@ -53,4 +54,5 @@ title: Growing against the Grain - Doing more with less
 9. Regularly assess and optimize your content's relevance to your target audience and industry.
 10. Consider requesting a free relevance report from Journey Further to identify areas for improvement.
 
-Remember: The key to success in the current landscape is to find your brand's sweet spot, maximize existing opportunities, and focus on relevance to cut through the noise.
+https://www.linkedin.com/in/paulaaronnorris/
+
